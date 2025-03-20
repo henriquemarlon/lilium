@@ -72,7 +72,6 @@ cartesi-coprocessor publish --network devnet
 > ```
    
 ```sh
-cd contracts
 make setup
 make detector
 ```
@@ -97,13 +96,8 @@ Enter Machine Hash: <machine_hash>
 > ```
 
 ```sh
-cd frontend
-npm i
-npm run dev
+make frontend
 ```
-
-> [!NOTE]
-> Although this README provides instructions for the devnet environment, this application can be deployed on testnet and hosted on an infrastructure provided by Cartesi. Follow the intructions provided [here](https://docs.mugen.builders/cartesi-co-processor-tutorial/deploy).
 
 ### Demo
 
