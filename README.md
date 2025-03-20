@@ -59,7 +59,7 @@ cartesi-coprocessor publish --network devnet
 3. Deploy `TreeDetector.sol` and `Token.sol` contract:
 
 > [!NOTE]
-> The following step requires some extra information provided by the command bellow:
+> The following step requires some extra information provided by the command bellow on `/coprocessor`:
 > ```bash
 > cartesi-coprocessor address-book
 > ```
