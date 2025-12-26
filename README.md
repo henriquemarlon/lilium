@@ -98,7 +98,3 @@ Enter Machine Hash: <machine_hash>
 ```sh
 make frontend
 ```
-
-### Demo
-
-https://github.com/user-attachments/assets/7b6d68a8-c37c-4890-a7e1-f1d0a8e0216e
