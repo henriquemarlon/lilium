@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/1d6d8b20-ee20-4e63-8ab8-84f3a16a3176" align="center" width="20%">
+    <img src="https://github.com/user-attachments/assets/3c069817-eec5-4675-9616-713abf0f5718" align="center" width="20%">
 </p>
 <br>
 <div align="center">
@@ -11,8 +11,8 @@
 </div>
 <br>
 <p align="center">
-	<img src="https://img.shields.io/github/license/henriquemarlon/lilium?style=default&logo=opensourceinitiative&logoColor=white&color=3D8EA5" alt="license">
-	<img src="https://img.shields.io/github/last-commit/henriquemarlon/lilium?style=default&logo=git&logoColor=white&color=868380" alt="last-commit">
+	<img src="https://img.shields.io/github/license/henriquemarlon/lilium?style=default&logo=opensourceinitiative&logoColor=white&color=008DA5" alt="license">
+	<img src="https://img.shields.io/github/last-commit/henriquemarlon/lilium?style=default&logo=git&logoColor=white&color=000000" alt="last-commit">
 </p>
 
 ##  Table of Contents
