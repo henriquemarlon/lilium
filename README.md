@@ -4,10 +4,10 @@
 </p>
 <br>
 <div align="center">
-    <i>An EVM Linux-powered coprocessor as an tree image detector</i>
+	<i>Cartesi Rollups Machine Learning Course</i>
 </div>
 <div align="center">
-<b>Tree image detector YOLOv8 based model powered by EigenLayer cryptoeconomic security</b>
+	<b>Any Code. Ethereum’s Security.</b>
 </div>
 <br>
 <p align="center">
